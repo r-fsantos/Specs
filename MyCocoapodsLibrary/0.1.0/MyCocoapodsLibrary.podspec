@@ -25,7 +25,6 @@ TODO: Add long description of the pod here.
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Renato Felicio' => 'renato.felicio@idwall.co' }
   s.source           = { :git => 'https://gitlab.idwall.space/renato.felicio/test-cocoapods.git', :tag => s.version.to_s }
-  # s.source           = { :git => 'https://github.com/r-fsantos/MyCocoapodsLibrary.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '11.0'
   s.swift_version = '5.0'
